@@ -1,1 +1,6 @@
-Read Guide in [ENG](./GUIDE_ENG.md), [PT-BR](./GUIDE_PT-BR.md) or [ITA](./GUIDE_ITA.md)
+# Termux format usb storage guide with root
+
+Select your language / Seleziona la tua lingua / Selecione o seu idioma:
+
+[English (ENG)](GUIDE_ENG.md) | [Italiano (ITA)](GUIDE_ITA.md) | [Português Brasil (PT-BR)](GUIDE_PT-BR.md)
+
