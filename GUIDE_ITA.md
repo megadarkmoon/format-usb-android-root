@@ -1,5 +1,9 @@
 # Come formattare un dispositivo di archiviazione USB in Termux con accesso root
 
+<p align="center">
+  <img src="./img/BANNER.jpg" alt="Format USB Storage Device With Root Access Header" width="400">
+</p>
+
 ## Prima di procedere!!!
 
 - **NON SONO RESPONSABILE PER EVENTUALI DANNI CHE POTRESTI CAUSARE SE SEGUI QUESTI PASSAGGI IN MODO ERRATO**!!!
