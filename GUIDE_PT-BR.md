@@ -69,4 +69,3 @@ sudo sm partition public:8,81 private
 ```
  * Não recomendado para dispositivos de armazenamento USB externos.
  * Eba! Você concluiu o guia com sucesso!
-```
