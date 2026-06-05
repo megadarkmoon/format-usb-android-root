@@ -42,7 +42,7 @@ sudo lsblk
 
 ```bash
 sdf       8:80   1  3.7G  0 disk
-└─sdf1    8:81   1  3.7G  0 part /mnt/media_rw/0124-1790
+└─sdf1    8:81   1  3.7G  0 part /mnt/media_rw/0124-1790 <-- Keep noted for later.
 ```
 
 - In my case its sdf1
@@ -58,7 +58,7 @@ sudo sm list-volumes
 - Example output:
 
 ```bash
-public:8,81 mounted 0124-1790
+public:8,81 mounted 0124-1790 <-- Same as lsblk.
 private mounted null
 emulated;0 mounted null
 ```
