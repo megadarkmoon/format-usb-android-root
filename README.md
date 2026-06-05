@@ -1,4 +1,4 @@
-# Termux format usb storage guide with root
+# Termux format usb storage device guide with root
 
 Select your language / Seleziona la tua lingua / Selecione o seu idioma:
 
