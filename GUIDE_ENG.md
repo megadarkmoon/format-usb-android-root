@@ -1,5 +1,10 @@
 # How to format usb storage device termux with root access
 
+<p align="center">
+  <img src="./img/BANNER.jpg" alt="Format USB Storage Device With Root Access Header" width="400">
+</p>
+
+
 ## Before proceeding!!!
 
 - **I AM NOT RESPONSIBLE FOR THE DAMAGE THAT YOU MAY CAUSE IF YOU FOLLOW THIS STEPS INCORRECTLY**!!!
